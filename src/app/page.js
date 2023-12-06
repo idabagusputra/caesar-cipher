@@ -168,7 +168,7 @@ export default function Home() {
 
                 <div className="px-10 pt-10 pb-5 w-full border-t border-gray-200 text-center">
                   <a className="text-indigo-500">
-                    idabagusputra@students.undup.ac.id
+                    idabagusputra@students.undip.ac.id
                   </a>
                   <p className="leading-normal my-5">
                     Diponegoro University
